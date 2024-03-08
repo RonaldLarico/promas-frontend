@@ -26,7 +26,7 @@ const texts = [
 const tittles = [
   { tittle1: "DIPLOMADOS, CURSOS PROMÁS", color1: "from-purple-700 to-pink-500" },
   { tittle2: "¡CONSTRUYENDO", color2: "text-customPurple", tittle3: "UN MUNDO MEJOR!", color3: "text-customPink"},
-  { tittle4: "DIPLOMADOS, CURSOS PROMÁS", color4: "from-green-700 to-blue-500" }
+  { tittle4: "HOLA PROMAS", color4: "from-green-700 to-blue-500" }
 ];
 
 const icons = [
